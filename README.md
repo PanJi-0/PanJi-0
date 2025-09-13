@@ -1,4 +1,8 @@
-## Hi there 👋
+I am a master’s student in Economics at Columbia University (Expected Dec 2026) with a background in mathematics and prior full-time RA experience at the Chinese University of Hong Kong.
+
+I've built two python packages:
+- [ivxj](https://github.com/metricshilab/ivxj): implement the main methodology in the paper "*Nickell Meets Stambaugh: A Tale of Two Biases in Panel Predictive Regressions*" (R&R at _Journal of Econometrics_)
+- [scmrelax](https://github.com/metricshilab/scmrelax): implement the main methodology in the paper "*A Relaxation Approach to Synthetic Control*" (Working paper)
 
 <!--
 **PanJi-0/PanJi-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
