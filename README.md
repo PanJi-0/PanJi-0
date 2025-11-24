@@ -5,6 +5,7 @@ I've built two python packages:
 - [scmrelax](https://github.com/metricshilab/scmrelax)
 
 I've conducted simulations for:
+
 Ziwei Mei, Liugang Sheng, Zhentao Shi (2025), "Nickell Bias in Panel Local Projection," Journal of International Economics.
 - Replication repository: [panel-lp-replication](https://github.com/metricshilab/panel-lp-replication)
 
