@@ -4,6 +4,10 @@ I've built two python packages:
 - [ivxj](https://github.com/metricshilab/ivxj)
 - [scmrelax](https://github.com/metricshilab/scmrelax)
 
+I've conducted simulations for:
+Ziwei Mei, Liugang Sheng, Zhentao Shi (2025), "Nickell Bias in Panel Local Projection," Journal of International Economics.
+- Replication repository: [panel-lp-replication](https://github.com/metricshilab/panel-lp-replication)
+
 <!--
 **PanJi-0/PanJi-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
